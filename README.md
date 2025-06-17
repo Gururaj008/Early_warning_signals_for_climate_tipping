@@ -27,7 +27,6 @@ This project investigates the hypothesis that a system approaching a tipping poi
 The analysis successfully identified clear statistical signals that preceded the abrupt climate transition. The plot below visualizes the primary result:
 
 ![Early Warning Signals Analysis](EWS_analysis.png)
-*(To display this image, save your plot as `EWS_analysis.png` and ensure it's in the same directory as this README file).*
 
 ### Interpretation of Results
 
